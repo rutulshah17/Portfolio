@@ -10,8 +10,8 @@ router.get('/contact', function(req, res, next) {
     res.render('contact', { title: 'Contact' });
 });
 
-router.get('/education', function(req, res, next) {
-    res.render('education', { title: 'Education' });
+router.get('/about', function(req, res, next) {
+    res.render('about', { title: 'about' });
 });
 
 router.get('/projects', function(req, res, next) {
