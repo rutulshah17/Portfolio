@@ -228,6 +228,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
+  /*#f78454*/
   background-image: url('../images/header-bg1.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -569,13 +570,13 @@ section#contact .form-group {
 }
 section#contact .form-group input,
 section#contact .form-group textarea {
-  padding: 20px;
+  padding: 14px;
 }
 section#contact .form-group input.form-control {
   height: auto;
 }
 section#contact .form-group textarea.form-control {
-  height: 236px;
+  height: 202px;
 }
 section#contact .form-control:focus {
   border-color: #31708f;
@@ -585,27 +586,27 @@ section#contact ::-webkit-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: #000000;
 }
 section#contact :-moz-placeholder {
   /* Firefox 18- */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: #000000;
 }
 section#contact ::-moz-placeholder {
   /* Firefox 19+ */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: #000000;
 }
 section#contact :-ms-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: #000000;
 }
 section#contact .text-danger {
   color: #e74c3c;
